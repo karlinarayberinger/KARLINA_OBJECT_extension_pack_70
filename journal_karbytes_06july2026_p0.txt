@@ -1,0 +1,50 @@
+/**
+ * file: journal_karbytes_06july2026_p0.txt
+ * type: plain-text
+ * date: 06_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// BEST_OBS_STUDIO_RECORDING_VIDEOS_IN_KARBYTES_06JULY2026
+
+The following list of KARBYTES videos is a sequel to the list depicted by the web page at the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_02july2026/
+
+* * *
+
+KARBYTES_video_file_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_18may2026_p1_[abridged_02july2026].mp4
+
+* * *
+
+KARBYTES_video_file_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_05july2026_p5.mp4
+
+* * *
+
+KARBYTES_video_file_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_06july2026_p1.mp4
+
+* * *
+
+KARBYTES_video_file_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_03july2026_p0.mp4
+
+* * *
+
+KARBYTES_video_file_4: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_06july2026_p0.mp4
+
+* * *
+
+KARBYTES_video_file_5: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_02july2026_p1.mp4
+
+* * *
+
+KARBYTES_video_file_6: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/obs_studio_recording_24june2026_p0.mp4
+
+* * *
+
+KARBYTES_video_file_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/obs_studio_recording_karbytes_02july2026_p2.mp4
+
+* * *
+
+KARBYTES_video_file_8: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/obs_studio_recording_28may2026_p0.mp4
+
