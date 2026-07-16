@@ -1,0 +1,31 @@
+/**
+ * file: chatgpt_karbytes_16july2026_p1.txt
+ * type: plain-text
+ * date: 16_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Extra High which took place between 11:59PM Pacific Standard Time on 14_JULY_2026 and 11:59PM Pacific Standard Time on 16_JULY_2026.
+
+* * *
+
+karbytes:
+
+Verify that each of the links in the following web page lead to the correct resources: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_c/
+
+ChatGPT:
+
+I’ll inventory every hyperlink on the page, open each destination, and compare the destination’s content and filename/title against the surrounding link text—not merely check whether it returns a successful status.
+
+The page is not yet indexed in a way the web reader can access, so I’m using the browser-control workflow to inspect the live WordPress page and follow its links directly.
+
+The live page is taking unusually long to finish loading. I’m letting that inspection complete before classifying any link, since partial WordPress rendering can omit embedded media and attachment URLs.
+
+I found 43 hyperlinks in the article body, representing 35 distinct destinations. I’m now validating the distinct destinations; duplicate links will inherit the same result. The set includes raw PNG/TXT/MP4 files, KARBYTES directory and transcript pages, Wikipedia definitions, and public GitHub pages.
+
+All 22 distinct Karbytes For Life Blog destinations load at their exact URLs, and each page’s rendered title/heading matches its link label or stated role. I’m checking the five raw repository assets next, including whether the PNG and both MP4 files actually render as the claimed media types.
+
+The text and PNG checks are straightforward, but direct MP4 navigation is slower because the browser attempts to initialize the media stream. I’m waiting for metadata rather than downloading the full videos.
+
+[...]
