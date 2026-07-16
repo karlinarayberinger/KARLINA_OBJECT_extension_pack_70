@@ -209,3 +209,27 @@ Your files—approximately 16.6 MB and 23.2 MB—would both fit under the Audio 
 karbytes: 
 
 Are you suggesting that GPT‑5.6 Sol can transcribe speech in audio recordings but does not share the transcription with the user?
+
+ChatGPT:
+
+No—that is not what I meant.
+
+GPT‑5.6 Sol is not documented as secretly transcribing uploaded audio and withholding the result. Instead:
+
+- An uploaded MP4 may simply be available as a file; no automatic transcription necessarily occurs.
+
+- When transcription is needed, a separate speech-to-text system can extract the words and pass them to Sol.
+
+- That transcript can—and normally should—be returned to the user. ChatGPT Record explicitly displays and saves its transcript.
+
+- “Extra High” changes reasoning effort, not whether audio is transcribed.
+
+For your videos, I received no hidden transcript. I extracted the audio tracks and analyzed their technical/acoustic characteristics; because they contained desktop music and no intelligible speech, I did not run speech recognition.
+
+karbytes: 
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_thinking_19june2026_p0.mp4]
+
+Alright, here is a test to see whether or not you can currently transcribe a video within your current environment. Attempt to transcribe the uploaded video.
+
+If you provide a video containing speech, the reliable request would be: “Extract the audio and give me a complete timestamped transcript.” Whether that succeeds inside Work depends on whether a transcription tool is available in that session; otherwise the dedicated OpenAI speech-to-text service is required.
