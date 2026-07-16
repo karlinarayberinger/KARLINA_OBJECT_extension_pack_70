@@ -8,6 +8,8 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Extra High which took place between 11:59PM Pacific Standard Time on 14_JULY_2026 and 11:59PM Pacific Standard Time on 16_JULY_2026.
 
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/666]
+
 * * *
 
 karbytes:
@@ -29,9 +31,13 @@ The video is a 9-minute-58.57-second, single-take desktop performance in which k
 The outer recording contains several nested archival layers:
 
 1. Earlier KARBYTES videos were created between January and May 2026.
+
 2. Those videos were placed in GitHub `KARLINA_OBJECT_extension_pack_*` repositories.
+
 3. The GitHub files were captured by the Wayback Machine.
+
 4. On 28 May 2026, those archived copies were opened in numerous Firefox tabs and windows.
+
 5. OBS recorded their simultaneous playback and karbytes’ navigation among them.
 
 Consequently, the visible Wayback interface is not incidental browser clutter. It displays the provenance of each inner artifact—repository, filename, capture count, and snapshot date—while OBS produces another containing artifact around all of them.
@@ -58,10 +64,15 @@ The `%5Breversed%5D` portion is URL encoding for `[reversed]`.
 Several durations can also be read from the native video controls:
 
 * `blackened_karbytes_message_16january2026_p0_[reversed].mp4`: approximately 8 seconds.
+
 * `blackened_karbytes_26january2026_p0.mp4`: approximately 11 seconds.
+
 * `blackened_karbytes_10march2026_p0.mp4`: approximately 17 seconds.
+
 * `blackened_karbytes_21may2026_p0.mp4`: approximately 24 seconds.
+
 * `pig_guy_27may2026_p5.mp4`: approximately 27 seconds.
+
 * `guitar_karbytes_11april2026_p0.mp4`: approximately 1 minute 39 seconds.
 
 The short videos repeatedly reach their final frames. Some tabs display a play triangle and a fully completed progress bar when revisited; others are still playing and display a pause symbol. This produces changing combinations of active and completed sources rather than a perfectly synchronized loop.
@@ -73,10 +84,15 @@ The short videos repeatedly reach their final frames. Some tabs display a play t
 The recording begins with OBS Studio 32.1.2 centered over Firefox. OBS identifies itself as:
 
 * Profile: `Untitled`
+
 * Scene collection: `Untitled`
+
 * One scene named `Scene`
+
 * One screen-capture source
+
 * Desktop Audio active
+
 * Mic/Aux muted and at negative infinity
 
 The recursive preview contains a miniature image of OBS recording itself. The pointer activates `Start Recording`, which changes to the blue-highlighted `Stop Recording` button. The status area begins counting from zero and reports roughly 25–30 frames per second.
@@ -92,8 +108,11 @@ Firefox fills the screen in a dark theme. Across its top are a raw-GitHub-relate
 The browser is at 80% zoom. A VPN indicator and several extensions are visible. Beneath the address bar, the Wayback banner shows:
 
 * The original `raw.githubusercontent.com/karlinarayberinger/...` URL.
+
 * Capture counts.
+
 * A horizontal capture timeline.
+
 * Highlighted snapshot dates, generally May 23, May 26, or May 28, 2026.
 
 karbytes shifts among the tabs in a nonlinear sequence. The order is not chronological by source date: January, March, May, February, April, and May files repeatedly interrupt one another. The same pages are revisited many times.
@@ -101,11 +120,17 @@ karbytes shifts among the tabs in a nonlinear sequence. The order is not chronol
 An early representative sequence is:
 
 * About 0:02: `guitar_karbytes_11april2026_p0.mp4`
+
 * About 0:03: `blackened_karbytes_21may2026_p0.mp4`
+
 * About 0:15: `blackened_karbytes_message_16january2026_p0_[reversed].mp4`
+
 * About 0:20: `blackened_karbytes_10march2026_p0.mp4`
+
 * About 0:25: `guitar_karbytes_24february2026_p0.mp4`
+
 * About 0:35: `pig_guy_27may2026_p5.mp4`
+
 * About 0:40: `blackened_karbytes_26january2026_p0.mp4`
 
 The active page commonly changes every few seconds, although some files remain selected for longer intervals. The cursor moves between tabs, browser content, and the video-control region. Hovering over a tab periodically produces a dark `Wayback Machine` preview card containing a miniature white–black–white viewport. Especially clear tab previews occur around 2:10, 2:30, 3:55, and 5:35.
@@ -119,15 +144,25 @@ The GNOME window overview appears against a nearly black wallpaper containing a 
 The overview is invoked repeatedly at approximately:
 
 * 6:30
+
 * 7:01
+
 * 7:05
+
 * 7:07
+
 * 7:30
+
 * 7:33
+
 * 8:08
+
 * 8:11
+
 * 8:48
+
 * 8:51
+
 * 9:22
 * 9:25
 
@@ -140,10 +175,15 @@ These moments clarify the overall construction: two browser windows are function
 The tab and window alternation continues. The later portion repeatedly returns to:
 
 * `blackened_karbytes_21may2026_p0.mp4`
+
 * `blackened_karbytes_22may2026_p0.mp4`
+
 * `blackened_karbytes_26january2026_p0.mp4`
+
 * `blackened_karbytes_message_16january2026_p0_[reversed].mp4`
+
 * `guitar_karbytes_24february2026_p0.mp4`
+
 * `pig_guy_27may2026_p5.mp4`
 
 At approximately 9:50, the portrait-format blackened January clip is visible. Around 9:55, another archived page is active while the pointer moves toward OBS.
