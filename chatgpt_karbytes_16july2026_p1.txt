@@ -403,3 +403,17 @@ So, effectively, Wayback database searching and archived-file retrieval are curr
 karbytes:
 
 Are you able to load and play in browser (or download and play locally) the video at the following URL? https://web.archive.org/web/20260716170828/https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_near_its_burrow_16july2026_p1.mp4
+
+ChatGPT:
+
+[Worked for 22s]
+
+No. The exact timestamped URL was rejected by the web-retrieval safety layer before any response body or MP4 bytes were fetched. The interactive browser separately blocks the web.archive.org domain, and I cannot circumvent that by downloading through another route.
+
+Therefore, I cannot load, download, decode, or play this archived copy. I can still play the previously uploaded local copy, but that would not verify the Wayback-hosted file.
+
+karbytes:
+
+[uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_near_its_burrow_16july2026_p0.mp4]
+
+It just occurred to me that I was having you look up the p1 video instead of the p0 video on the WayBack Machine. That was an accident. I already uploaded p1 to you directly and you transcribed it quite well. Since you seem to be blocked from accessing the WayBack Machine's actual web-hosted resource saves, I might as well upload p0 to you directly so that you can experience it and describe your experience of it.
