@@ -1,0 +1,57 @@
+/**
+ * file: chatgpt_karbytes_11july2026_p0.txt
+ * type: plain-text
+ * date: 11_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 which took place between 11:59PM Pacific Standard Time on 10_JULY_2026 and 11:59PM Pacific Standard Time on 11_JULY_2026.
+
+* * *
+
+karbytes:
+
+I see that a new version of ChatGPT named ChatGPT 5.6 Sol has been rolled out (and seemingly now available to me as an option to use as a ChatGPT Plus user). What is that new version?
+
+ChatGPT:
+
+[Worked for 22s]
+
+GPT-5.6 Sol is OpenAI’s new flagship reasoning model. It launched on July 9, 2026 as the most capable member of the GPT-5.6 family. The other members are Terra, positioned as a balanced model for everyday professional work, and Luna, optimized for speed and lower cost. “Sol” is simply the model-tier name; OpenAI has not said that it is an acronym.
+
+What Sol is designed to improve
+
+Compared with GPT-5.5, GPT-5.6 Sol emphasizes:
+
+complex reasoning and long, multi-stage tasks;
+software engineering, debugging, and command-line work;
+research, document analysis, and professional knowledge work;
+computer use and coordinated tool use;
+scientific reasoning and cybersecurity;
+creating more polished presentations, documents, spreadsheets, interfaces, and other finished artifacts.
+
+OpenAI also describes it as more token-efficient: it is intended to accomplish complicated work with fewer model turns, fewer tool calls, and less prompting or supervision.
+
+What you receive on ChatGPT Plus
+
+For ChatGPT Plus, GPT-5.6 Sol currently powers:
+
+Medium — normal GPT-5.6 reasoning;
+High — extended GPT-5.6 reasoning.
+
+Plus does not currently include Extra High or GPT-5.6 Sol Pro. Those are available on higher plans. The rollout is gradual, so different Plus accounts may receive the option at slightly different times.
+
+Importantly, Sol does not replace the ordinary default model. Instant remains GPT-5.5 Instant for quick conversation and routine questions. ChatGPT can automatically switch from Instant to Medium for a complex request, or you can manually select Medium or High. Automatic switching can be disabled through Configure in the model picker.
+
+In practical terms, use Instant for ordinary chatting and straightforward questions; use GPT-5.6 Sol High when you want careful analysis, complicated file or website work, programming, research, or a polished multi-part result.
+
+Want me to set up an alert for future major ChatGPT model releases?
+
+karbytes:
+
+No thanks. What you provided thus far is sufficient for my purposes. Thanks! :)
+
+ChatGPT:
+
+You’re welcome, karbytes! :)
