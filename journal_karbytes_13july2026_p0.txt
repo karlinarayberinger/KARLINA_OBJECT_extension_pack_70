@@ -1,0 +1,42 @@
+/**
+ * file: journal_karbytes_13july2026_p0.txt
+ * type: plain-text
+ * date: 13_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+Right now it is technically the fifth day into the first "dark hiatus bubble" of the larger encompassing macro-Hiatus period named The First Official KARBYTES Hiatus (which spans the summer months of the year 2026). 
+
+That macro-Hiatus officially started at 11:59PM Pacific Standard Time on 18_JUNE_2026 and has included sporadic updates to the canon KARBYTES between periods of "inactivity" (if "activity" is measured as commits made to canon KARBYTES GitHub repositories owned by the GitHub user account named @karlinarayberinger).
+
+Each of those "inactivity" periods is technically referred to as a "hiatus bubble" (and each "hiatus bubble" pivots around some arbitrary point in time in which drafts of canon KARBYTES files are accumulated, modified, and stored in a public GitHub repository named projects (on the GitHub user account named @informationcrystals)). 
+
+When a "hiatus bubble" ends, the aforementioned projects GitHub repository is renamed to include the end date of the respective "hiatus bubble". Then that renamed GitHub repository is archived (i.e. made read-only) and set to private. Immediately after that, a new public GitHub repository on the @informationcrystals GitHub account is created which initially contains only a "public domain" LICENSE file and sits dormant until the next "hiatus bubble" begins and at least one new file is added to the new projects GitHub repository.
+
+So far, the first "dark hiatus bubble" of the aforementioned macro-Hiatus has spanned four solid days of "no activity" on the canon KARBYTES GitHub repositories. This "dark hiatus bubble" has been one of the most fertile and productive development periods in the history of KARBYTES thus far.
+
+I was going to try to make this "dark hiatus bubble" last for at least two weeks but decided that it would be more practical for me to end it sooner because there are so many files which have already amassed in projects that I think it would be wise to incorporate them into the canon KARBYTES within the next 48 hours so that I can have peace of mind that those files make it to the "official public" side of the KARBYTES media platform before the mass of files in projects becomes "too disorganized" (or before some unforeseen disaster happens which would delay sharing some of the best KARBYTES blog posts ever written thus far from being published on karbytes' social media platforms in a timely manner (i.e. while those files still seem fresh off the press rather than relatively "old news")).
+
+After I incorporate the files of this "dark hiatus bubble" into the canon KARBYTES, I plan on starting the next "dark hiatus bubble" of this macro-Hiatus. (Perhaps prefacing these "hiatus bubbles" with the adjective "dark" is a bit unnecessary given that all "hiatus bubbles" follow the same formulaic structure which I already described in this journal entry. I initially thought that calling THIS "hiatus bubble" the first "dark" hiatus bubble of the summer Hiatus would be appropriate given that, when I started THIS hiatus bubble, I assumed that it would last for an unusually long time (which is why I called it "dark" because, compared to the hiatus bubbles preceding THIS hiatus bubble, I imagined that the commits graph on the @karlinarayberinger GitHub account would show a dramatic "dark period" of zero contributions for at least two weeks instead of just two to five consecutive days)).
+
+Maybe I will go through several weeks of not making any contributions to the @karlinarayberinger GitHub account. Most likely, I will make contributions to that GitHub account more frequently, especially if files seem to accumulate quickly in the projects GitHub repository of @informationcrystals. I wouldn't want that repository to get too packed with files for me to properly manage.
+
+Also, as a clever workaround for the "calendar day debt" issue I was facing in attempting to adhere to the rule I established of only making one of the following types of canon KARBYTES web pages per calendar day (and allowing myself to make more of such web pages per day by "using up" the next calendar days as labels for those web pages), I decided to use a new naming convention (and the two categories of web page I was talking about is either chatgpt_karbytes or else journal_karbytes).
+
+The new web page naming convention (for chatgpt_karbytes or for journal_karbytes web pages of KARBYTES) is using English alphabet letters in addition to a calendar day date as part of the respective web page's name. For example, the WordPress dot Com web page version of this plain-text file could be named something like journal_karbytes_13july2026_a instead of just journal_karbytes_13july2026.
+
+So if I end up creating two journal_karbytes type KARBYTES web pages in one day, I could name the first of those web pages something like journal_karbytes_13july2026_a and the second of those web pages something like journal_karbytes_13july2026_b (instead of using my older convention of naming the first of those web pages something like journal_karbytes_13july2026 and the second of those web pages something like journal_karbytes_14july2026).
+
+I doubt I will need to use up all 26 letters of the English alphabet in a single day. Hence, I think this new web page naming convention will effectively solve the problem of me running out of calendar day labels "too quickly" (as in acruing "debt").
+
+Finally, I will still be naming plain-text versions of those WordPress dot Com web pages as I have been. For example, the plain-text version of this file is named journal_karbytes_13july2026_p0.txt. If I make more journal_karbytes plain-text files today, I can name the next one of those files journal_karbytes_13july2026_p1.txt.
+
+Note that not every plain-text version of a journal_karbytes web page or of a chatgpt_karbytes web page necessarily has a corresponding WordPress dot Com web page (but every WordPress dot Com version of a journal_karbytes web page or of a chatgpt_karbytes web page always has a corresponding plain-text version).
+
+One last thing: I decided that I will keep using the old web page naming convention for each new journal_karbytes WordPress dot Com web page or chatgpt_karbytes WordPress dot Com web page until I run out of July 2026 day labels. Then I'll start using August 2026 for the new WordPress dot Com web page naming convention (for chatgpt_karbytes and journal_karbytes web pages of KARBYTES).
+
+Sincerely,
+karbytes

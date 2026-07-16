@@ -1,0 +1,28 @@
+/**
+ * file: journal_karbytes_14july2026_p1.txt
+ * type: plain-text
+ * date: 15_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// The following is a re-usable ChatGPT prompt which karbytes uses to quickly format plain-text files into WordPress dot Com web pages.
+
+In the uploaded HTML file:
+
+(1.) enclose each line of text which has at least one line of space above and below it in <p></p> tags, 
+
+(2.) place a <br> after each line of text which does not have a line of space below below it, 
+
+(3.) enclose each instance of karbytes: in <strong></strong> tags if that instance of karbytes: is the only sequence of characters in its line,
+
+(3.) enclose each instance of ChatGPT: in <strong></strong> tags if that instance of ChatGPT: is the only sequence of characters in its line,
+
+(4.) place each Uniform Resource Locator inside of a hyperlink which has a #000000 background and #ff9000 text color and the full URL displayed as visible text on the web page,
+
+(5.) change each instance of < to &lt; 
+
+(6.) change each instance of > to &gt;
+
+Provide a download link to the resulting file. Thanks!
+

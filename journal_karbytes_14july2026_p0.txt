@@ -1,0 +1,314 @@
+/**
+ * file: journal_karbytes_14july2026_p0.txt
+ * type: plain-text
+ * date: 15_JULY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+### In the following pseudocode...
+### [anonymous_github_username] -> informationcrystals
+### [public_files_repository] -> projects
+### [N] -> nonnegative integer number of KARLINA_OBJECT_extension_pack
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+    If the URL ends with any one of the following strings:
+        temp.txt 
+        index.html
+        sub-index_page_132.html
+        sub-index_page_133.html
+        sub-index_page_134.html
+        sub-index_page_135.html
+        sub-index_page_136.html
+        sub-index_page_137.html
+        sub-index_page_138.html
+    Then:
+        assume that file does not exist (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+    Otherwise:
+        assume that file exists (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+
+### ...End of pseudocode
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_132.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_133.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_134.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_135.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_136.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_137.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_138.html
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026_[recovery_mode].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026_[recovery_mode_extended].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026_[recovery_mode_extended_t1].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026_[recovery_mode_extended_t2].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026_[recovery_mode_extended_t3].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_karbytes_pregnant_man_concept_12july2026_[recovery_mode_extended_zenith].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_10july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_10july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_11july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_11july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_11july2026_p2.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_12july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_12july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_13july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_13july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_13july2026_p2.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_14july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_14july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_14july2026_p2.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_15july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_15july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_15july2026_p2.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/drums_karbytes_13july2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/guitar_karbytes_13july2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/guitar_karbytes_13july2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_day_half_night_at_morning_in_castro_valley_california_on_14july2026.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_day_half_night_at_morning_in_castro_valley_california_on_14july2026_[video_screenshot_p0].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_day_half_night_at_morning_in_castro_valley_california_on_14july2026_[video_screenshot_p1].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_day_half_night_at_morning_in_castro_valley_california_on_14july2026_[video_screenshot_p2].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_day_half_night_at_morning_in_castro_valley_california_on_14july2026_[video_screenshot_p3].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_day_half_night_at_morning_in_castro_valley_california_on_14july2026_[video_screenshot_p4].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_09july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_10july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_11july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_12july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_13july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_13july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_14july2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_14july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2020.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2021.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2022.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2023.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2024.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2025.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_canon_github_commits_2026_[up_to_start_of_dark_phase_of_first_official_karbytes_hiatus].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_in_the_wild_09july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_stuck_in_a_cosmic_vase_10july2026.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_stuck_in_a_hole_12july2026.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_stuck_in_a_hole_12july2026_[alternative_version]_p0.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_stuck_in_a_hole_12july2026_[alternative_version]_p1.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_stuck_in_a_hole_12july2026_[alternative_version]_p2.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_stuck_in_a_hole_12july2026_[alternative_version]_p3.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_trapped_in_hiatus_bubble_14july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_trapped_in_hiatus_bubble_14july2026_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_trapped_in_hiatus_bubble_14july2026_p2.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_trapped_in_hiatus_bubble_15july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_09july2026_p0_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_09july2026_p1_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_09july2026_p2_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_09july2026_p3_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p0_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p1_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p2_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p3_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p4_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p5_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_10july2026_p6_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p0_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p1_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p2_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p3_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p4_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p5_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p6_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p7_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p8_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p9_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_11july2026_p10_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_14july2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_14july2026_p0_[video_transcript].txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_thinking_14july2026_p0_[video_screenshot].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_12july2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_15july2026_p0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_70.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/reddit_howchatgptseesme_subreddit_post_14july2026_p0.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/reddit_howchatgptseesme_subreddit_post_14july2026_p1.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/reddit_howchatgptseesme_subreddit_post_14july2026_p2.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/reddit_howchatgptseesme_subreddit_post_14july2026_p3.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/spyro_presiding_over_the_couch_14july2026.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_09july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_09july2026_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_09july2026_p2.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_09july2026_p3.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_09july2026_p4.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p2.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p3.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p4.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p5.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p6.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p7.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p8.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p9.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_10july2026_p10.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_11july2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_via_karbytes_11july2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_KARBYTES_STUCK_WEB_PAGES.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_22july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_23july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_24july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_25july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_26july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_27july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_28july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_29july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_30july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_31july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_01august2026_a.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_01august2026_b.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_gallery_of_the_sentient_vessel.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_13july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_15july2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_social_media_posts_koep70.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/yowling_dogs_sound_effects_downloaded_by_karbytes_15july2026.mp4
