@@ -335,3 +335,7 @@ But I figure maybe ChatGPT can access files that are on the Wayback Machine, whi
 Thank you.
 
 The only material uncertainty is whether you said “The video I had it transcribed already…” Two passes included “it”; one omitted it. Everything else had strong agreement.
+
+karbytes:
+
+Excellent! I see that you were able to independently transcribe (and even normalize the transcription of) that video which I did not yet upload to a public GitHub repository at the time I uploaded that video to you. The next experiment involves asking you to attempt downloading (or viewing in browser) the video following GitHub-hosted video's latest WayBack Machine save of that video using the following original Uniform Resource Locator (URL):
