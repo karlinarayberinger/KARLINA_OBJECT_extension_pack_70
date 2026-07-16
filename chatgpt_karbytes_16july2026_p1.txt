@@ -369,3 +369,9 @@ ChatGPT:
 Success: https://web.archive.org/ loaded correctly. I could read the Wayback Machine homepage, including its archive-search field and “Save Page Now” interface.
 
 Therefore, Internet Archive access is not globally blocked here. The earlier failure was specific to the availability-query URL or the cloud-browser security layer—not the base Wayback domain itself.
+
+karbytes:
+
+While we are at the web page pointed to by that URL, let's try searching for the aforementioned video by submitting its URL to the search field on the Internet Archive page.
+
+ChatGPT:
