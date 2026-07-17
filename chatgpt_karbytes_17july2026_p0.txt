@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Extra High which took place between 11:59PM Pacific Standard Time on 14_JULY_2026 and 11:59PM Pacific Standard Time on 17_JULY_2026.
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 14_JULY_2026 and 11:59PM Pacific Standard Time on 17_JULY_2026.
 
 * * *
 
@@ -797,7 +797,6 @@ flowchart TD
     D --> E["GitHub pack"]
     E --> F["Wayback / ZIP / M-DISC"]
 ```
-
 [end preformatted_text]
 
 Second, some journals preserve spoken-video transcripts. The June 20 transcript discusses a succession of future selves, interpersonal celibacy versus private sexuality, publishing workflow and surveillance concerns. The June 23 inventory transcript inventories a 128 GB flash drive, Wayback indexes, disc labels and five unused M-DISCs.
