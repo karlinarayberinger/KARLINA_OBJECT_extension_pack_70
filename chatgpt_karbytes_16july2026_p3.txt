@@ -1634,3 +1634,472 @@ The second run reaches approximately 66 points before ending shortly after 7:00.
 ## Bottom line
 
 The only “speech” detected in these files is unstable model-generated language produced from non-speech or highly ambiguous audio. P1 and p2 contain no credible verbal transcript at all. The genuine auditory irregularities are short encoded silences, hard application/source transitions, and synthetic game tones—not damaged media, clipping, or evidence of hidden spoken content.
+
+karbytes:
+
+Describe the music you noticed in any of these recordings in maximal detail.
+
+ChatGPT:
+
+[Worked for 8m 31s]
+
+The recordings contain two main kinds of music:
+
+1. A short, sparse, almost voice-like experimental passage heard in the tea video and reused at the beginning of OBS p0.
+2. A much longer body of slow, dark, guitar-centered music that continues through OBS p0, p1, and p2, eventually becoming a multilayer guitar collage with electronic game tones superimposed.
+
+The music is instrumental. I found no dependable sung lyrics or spoken vocal line.
+
+## Overall musical character
+
+The dominant style is best described as lo-fi experimental electric-guitar improvisation:
+
+* Slow underlying pulse, usually around 69–73 BPM.
+
+* Heavy emphasis on the bass and lower midrange.
+
+* Sustained notes, drones, bent or sliding pitches, repeated figures, and irregular attacks.
+
+* A dark, murky, sometimes overdriven or saturated timbre.
+
+* Little evidence of a conventional drum kit.
+
+* No clearly separated verse, chorus, or pop-song structure.
+
+* Long-form continuity produced by looping independently recorded guitar files.
+
+* Increasing density as additional guitar tracks and game sounds enter.
+
+* A mostly centered, relatively narrow stereo image rather than a spacious commercial mix.
+
+* Noticeable source compression and bandwidth limitation, contributing to a grainy, home-recorded quality.
+
+The file interfaces identify the material as personal guitar recordings rather than anonymous background music.
+
+## 1. The tea video’s short experimental passage
+
+`a_cup_of_green_tea_16july2026_p0.mp4` contains approximately 63.5 seconds of unusual tonal audio.
+
+### Musical texture
+
+This is the most ambiguous and least conventionally “song-like” music in the group. It consists of:
+
+* Sustained, wavering tones concentrated roughly between 150 and 600 Hz.
+
+* Frequent upward and downward pitch glides.
+
+* Clusters of harmonics extending into approximately the 4–8 kHz range.
+
+* Intermittent vertical attacks or bursts between the sustained sounds.
+
+* A timbre that alternates between string-like, electronic, and vowel-like.
+
+The vowel-like resonances are probably why speech recognition attempted to convert it into words. They behave musically, however: they stretch, bend, repeat, and dissolve without stable consonants or linguistic timing. It could be processed guitar, another distorted string source, or a highly manipulated vocal-like synthesizer. I would not identify it as intelligible singing.
+
+### Rhythm
+
+There is no dependable meter across the whole minute.
+
+* The first 13 seconds contain dense small attacks but no clear slow beat.
+
+* Approximately 0:13–0:36 has a possible pulse near 117–125 BPM.
+
+* Outside that middle region, tempo estimation locks onto roughly 200–210 events per minute, but that represents rapid internal articulation rather than a convincing musical beat.
+
+* The ending again feels free-rhythmic, with the pitch motions carrying the shape.
+
+It therefore reads more like an experimental sound study, drone, or improvised interlude than a metered composition.
+
+### Tonality
+
+The pitch center is mobile:
+
+* The opening and middle loosely favor a C-minor-like collection.
+
+* The ending leans toward B minor/D/G territory.
+
+* All twelve pitch classes are substantially represented, so these are color centers, not firm key signatures.
+
+The strongest compositional trait is not chord progression but pitch bending: tones continually approach, leave, and smear around possible centers.
+
+### Sound and dynamics
+
+* Integrated loudness: approximately −23.0 LUFS.
+
+* Loudness range: approximately 4.2 LU.
+
+* True peak: approximately −6.2 dBFS.
+
+* Stereo: effectively exact dual mono; the left and right channels are identical.
+
+* Most energy lies between 150 Hz and 2 kHz.
+
+* The brighter 0:13–0:36 section has a spectral centroid around 1.2 kHz; the beginning and ending are somewhat darker.
+
+The result feels intimate, compressed, and centered directly between the speakers.
+
+### Relationship to OBS p0
+
+This same passage is genuinely reused in `obs_studio_recording_16july2026_p0.mp4`.
+
+Ten-second portions from approximately 0:25–0:60 of the tea soundtrack align strongly with OBS p0 at approximately 0:04.7–0:39.7. The waveform correlations are around 0.81–0.87, much too high to be mere stylistic resemblance. OBS p0 is therefore replaying or re-recording the same source material, at a lower level and with additional compression.
+
+## 2. OBS p0: transition from the tea passage to the long guitar material
+
+`obs_studio_recording_16july2026_p0.mp4` lasts approximately 8:14.3.
+
+### 0:00–0:40 — reused experimental passage
+
+The opening reproduces the latter portion of the tea soundtrack:
+
+* Sparse pitch glides.
+
+* Harmonic or formant-like bands.
+
+* Irregular rhythm.
+
+* Predominantly mono presentation.
+
+* Approximately 6 dB quieter in average signal level than the tea file itself.
+
+The pitch-class estimate is correspondingly unstable, moving among G major, B minor, and C minor fits.
+
+### 0:43–0:46 — break between musical episodes
+
+There are conspicuous silences or near-silences around:
+
+* 0:43.2–0:44.5
+
+* 0:45.0–0:46.0
+
+These function almost like a crude edit point. After them, the audio changes from sparse, gliding material to a denser low-mid guitar bed.
+
+### Approximately 0:47–3:00 — dense guitar music enters
+
+The new material has a much fuller and more continuous spectrum:
+
+* Strong energy below 500 Hz.
+
+* A broad blanket of harmonics reaching approximately 7–8 kHz.
+
+* Repeated attacks consistent with plucking or strumming.
+
+* A dark, saturated body rather than clean acoustic sparkle.
+
+* Considerable low-frequency sustain beneath the attacks.
+
+The source appears to be electric guitar or heavily processed guitar. The spectral density suggests some combination of distortion, overdrive, amplifier noise, re-recording, or layered resonance.
+
+The early portion does not present an especially strong slow beat. Fast attack patterns cause automatic tempo estimates near 200 BPM, but that is better understood as approximately three subdivisions or gestures for every later slow beat.
+
+### Approximately 3:00–6:00 — increasingly continuous improvisation
+
+The music becomes marginally louder and warmer:
+
+* Average level rises from roughly −27 dBFS RMS in the early guitar portion to approximately −25 dBFS.
+
+* Around half of the energy sits between 150 and 500 Hz.
+
+* Another 20–24% lies between 500 Hz and 2 kHz.
+
+* Only around 1–2% of the energy is above 5 kHz.
+
+This is an unusually low-mid-heavy balance. It would sound thick, dark, and somewhat muffled compared with a conventionally mixed rock guitar.
+
+The pitch center slowly migrates away from an Ab-like area toward D and B-minor-related material. Because the part is highly chromatic and distorted, this is modal gravity rather than an unambiguous key change.
+
+### Approximately 6:00–8:00 — slow pulse becomes clearer
+
+The last two minutes establish the clearest recurring pulse in p0:
+
+* Approximately 67–72 BPM.
+
+* Most likely perceived around 69–71 BPM.
+
+* Roughly 180–220 distinct attacks per minute, implying several picked or strummed gestures within each slow beat.
+
+* D becomes the strongest tonal center, with major/minor ambiguity and B minor as a closely related alternative.
+
+The music still does not behave like a standard chord-driven song. It is closer to a slowly cycling improvised guitar texture in which repeated note groups, drones, and timbral changes define the form.
+
+### Approximately 8:00–8:14 — explicitly identified guitar track
+
+A nested `RANDOM_SOUND_TRACK_PLAYER_WITH_STATS` interface displays:
+
+`guitar_karbytes_25january2026_p0.mp3`
+
+The page shows a play count of one and a playback timer beginning at zero. This section is the loudest and most rhythmically defined portion of p0:
+
+* Approximately −21.4 dBFS RMS.
+
+* Slow pulse around 69–73 BPM.
+
+* More high-mid activity than the immediately preceding passage.
+
+* A more audible noisy or distorted component.
+
+* Tonal emphasis near D, although the mode remains ambiguous.
+
+### P0 mix characteristics
+
+* Integrated loudness: approximately −21.7 LUFS.
+
+* Loudness range: approximately 9.2 LU—the widest range of the OBS files.
+
+* True peak: approximately −4.0 dBFS.
+
+* Stereo correlation: 0.996, so it is almost mono.
+
+* Side-channel energy: approximately 26.5 dB below the center signal.
+
+P0 therefore sounds like a succession of re-recorded or embedded sources rather than a polished stereo master.
+
+## 3. OBS p1: sustained slow guitar track
+
+`obs_studio_recording_16july2026_p1.mp4` contains about 3:16.7 of highly continuous guitar music.
+
+Although the screen shows the tea video, forest footage, desktop imagery, and a hiatus poster, the musical bed does not substantially follow those visual changes. It appears to continue independently as background playback.
+
+### Instrument and playing style
+
+The music remains centered on guitar:
+
+* Low notes or drones supply a constant foundation.
+
+* Repeated picked attacks occur over the sustained layer.
+
+* The tone is likely electric and at least mildly overdriven.
+
+* There is enough noise and broad harmonic content to make individual notes partially merge.
+
+* The attack rate is too busy for a simple one-note-per-beat pattern, but it is organized around a slow pulse.
+
+* No independent kick, snare, hi-hat, or cymbal layer is clearly separable.
+
+The rhythm is therefore carried mainly by the guitar’s own attacks and amplitude swells.
+
+### Pulse
+
+P1 has the most stable musical tempo estimate:
+
+* Main range: 69–73 BPM.
+
+* Most consistent estimate: approximately 71 BPM.
+
+* Secondary estimates are merely neighboring values, not distinct tempos.
+
+* Around 200–213 attacks occur per minute, suggesting triplet-like subdivision, repeated picking, or approximately three audible gestures per slow beat.
+
+The steadiness makes p1 feel more hypnotic and loop-oriented than the tea passage or early p0.
+
+### Harmony
+
+The strongest approximate center is D:
+
+* D minor is marginally favored overall.
+
+* D major is almost equally plausible.
+
+* A-related material appears as a secondary center.
+
+This major/minor ambiguity may arise from:
+
+* Power-chord or open-fifth writing that omits the third.
+
+* Pitch bends passing between minor and major thirds.
+
+* Independently resonating notes.
+
+* Distortion smearing overtones across adjacent pitch classes.
+
+* Multiple recordings being partially superimposed.
+
+I would describe the harmony as D-centered and modal rather than firmly “in D major” or “in D minor.”
+
+### Frequency balance
+
+Across p1:
+
+* Approximately 20% of the energy is below 150 Hz.
+
+* Approximately 51% lies between 150 and 500 Hz.
+
+* Approximately 17% lies between 500 Hz and 2 kHz.
+
+* Approximately 10% lies between 2 and 5 kHz.
+
+* Only around 2% lies above 5 kHz.
+
+* The 85% spectral rolloff is generally around 1.1–1.5 kHz.
+
+This is an exceptionally warm and low-mid-heavy guitar sound. It lacks the bright upper edge of clean acoustic picking or a cymbal-heavy mix.
+
+### Dynamics and stereo
+
+* Integrated loudness: approximately −17.9 LUFS.
+
+* Loudness range: only approximately 2.2 LU.
+
+* True peak: approximately −5.0 dBFS.
+
+* Stereo correlation: approximately 0.938.
+
+* Side energy: around 14.9 dB below the center.
+
+P1 is substantially louder and wider than p0, but still strongly center-weighted. Its very small loudness range reinforces the impression of an almost continuous, compressed texture rather than a piece with quiet verses and loud choruses.
+
+## 4. OBS p2: continuation, added guitar layers, and arcade-tone overlay
+
+`obs_studio_recording_16july2026_p2.mp4` contains the most complex musical layering.
+
+### 0:00–approximately 2:40 — continuation or replay of the p1 guitar bed
+
+The opening reproduces the same slow, D-centered guitar material heard in p1:
+
+* Approximately 69–73 BPM.
+
+* Similar low-mid spectral distribution.
+
+* Similar repeated picking density.
+
+* Similar distorted or saturated surface.
+
+* Average level around −23 dBFS RMS, slightly quieter than p1.
+
+This relationship is stronger than a generic stylistic match. Some ten-second waveform regions from p1 correlate with p2 at up to approximately 0.93, indicating that p2 contains a replayed, nested, or continuing copy of the same recorded audio.
+
+The timbre varies slightly because it has undergone another layer of playback and AAC encoding.
+
+### Approximately 2:45–2:52 — additional files selected and started
+
+The visible `SOUND_TRACK_LOOPER_TWO` interface selects:
+
+* `guitar_karbytes_13july2024.mp3`
+
+* `karbytes_guitar_16_october_2023.mp3`
+
+Both are then shown playing with independent loop counters and elapsed-time statistics.
+
+This is crucial to the later sound. The music becomes a collage of independently running guitar recordings rather than a single performance.
+
+### Approximately 2:52–5:04 — multilayer guitar collage
+
+Once the additional files begin:
+
+* Average level increases by approximately 2–3 dB.
+
+* Energy between 150 and 500 Hz rises to approximately 57–58%.
+
+* The spectral centroid falls to roughly 570–600 Hz, making the combined texture darker and thicker.
+
+* The pulse remains near 69–73 BPM, but attacks do not always align cleanly.
+
+* Onset density drops slightly to approximately 178–193 attacks per minute because the additional sustained energy masks individual transients.
+
+* The approximate pitch center shifts toward Ab/G♯ while the older D-centered material appears to remain present.
+
+This creates a likely polytonal or modal clash. The separate files are not presented as synchronized multitrack stems; they appear to be free-running sound files. Their attacks, bends, and tonal centers drift through one another.
+
+The effect would be:
+
+* Dense.
+
+* Hypnotic.
+
+* Slightly disorienting.
+
+* More droning than melodic.
+
+* Less like a band performance than several guitar improvisations heard simultaneously.
+
+* Rich in beating, roughness, and phase interaction where similar sustained frequencies overlap.
+
+One repeating component appears approximately 202.1 seconds apart in p2. Portions around 2:45 and 6:07 exhibit related waveform material, indicating that at least one underlying guitar file is looping while other layers and game sounds change above it.
+
+### Approximately 5:04–8:09 — Falling Apples game tones over the guitars
+
+The guitar music does not appear to stop when the game begins. Instead, electronic game sounds are added.
+
+The added signals are unusually high and narrow:
+
+* Approximately 3.13 kHz.
+
+* Approximately 4.67 kHz.
+
+* Approximately 6.25–6.30 kHz.
+
+* Approximately 9.38 kHz.
+
+* Additional weaker components above 10 kHz.
+
+The prominent tones fall broadly into G- and D-related pitch classes:
+
+* Around 3.13 kHz: approximately G7.
+
+* Around 4.67 kHz: approximately D8.
+
+* Around 6.27 kHz: approximately G8.
+
+* Around 9.38 kHz: approximately D9.
+
+Thus the game sounds resemble a bright, high-register G/D open-fifth sonority, though they function as beeps or effects rather than harmony in the guitar arrangement.
+
+### How the game changes the musical texture
+
+After the tones enter:
+
+* Energy between 2 and 5 kHz jumps from about 7% to approximately 22–26%.
+
+* The spectral centroid rises from roughly 580 Hz to about 800–870 Hz.
+
+* Audible attack density increases from roughly 180 to approximately 240–247 events per minute.
+
+* The tonal estimate becomes more decisively D/G-centered because the fixed game tones strongly bias the pitch spectrum.
+
+* Average level rises gradually from about −20.0 to −19.7 dBFS RMS.
+
+* Peaks approach −4 dBFS by the third game.
+
+This does not form a new musical composition in the usual sense. It creates a hybrid texture: slow distorted guitar underneath, with bright arcade-like punctuation repeatedly cutting through the upper register.
+
+The contrast is strong:
+
+* Guitar: dark, sustained, low-mid-heavy, slow, diffuse.
+
+* Game sounds: bright, narrow, precise, high-pitched, repetitive.
+
+* Combined result: an accidental electroacoustic collage.
+
+### P2 overall sound
+
+* Integrated loudness: approximately −17.2 LUFS.
+
+* Loudness range: approximately 5.3 LU.
+
+* True peak: approximately −2.8 dBFS.
+
+* Stereo correlation: approximately 0.916.
+
+* Side energy: about 13.5 dB below the center.
+
+P2 is the widest and loudest recording in the series. That increased width is consistent with several independently encoded guitar sources being summed together.
+
+## Musical evolution across the recordings
+
+[preformatted_text]
+
+| Stage             | Dominant sound                     |                          Pulse | Tonal tendency                    | Texture                                |
+| ----------------- | ---------------------------------- | -----------------------------: | --------------------------------- | -------------------------------------- |
+| Tea video         | Wavering experimental tones        |                    Mostly free | Mobile; C-minor-like to B/D/G     | Sparse, mono, vocal-like but nonverbal |
+| OBS p0 opening    | Re-recorded tea passage            |                    Mostly free | Similarly unstable                | Quieter, compressed reproduction       |
+| OBS p0 after 0:47 | Dark guitar improvisation          |           Initially indistinct | Ab-like drifting toward D         | Dense, low-mid-heavy, nearly mono      |
+| OBS p0 ending     | Named guitar track begins          |                      69–73 BPM | D major/minor ambiguity           | Louder, more regular                   |
+| OBS p1            | Continuous slow guitar             |                   About 71 BPM | D-centered, modal                 | Compressed, hypnotic, slightly wider   |
+| OBS p2 opening    | Replay/continuation of p1 material |                   About 70 BPM | D-centered                        | Same slow guitar bed                   |
+| OBS p2 after 2:52 | Two more guitar files layered      |  About 70 BPM, loosely aligned | Ab/G♯ color over older D material | Thick, droning, potentially polytonal  |
+| OBS p2 after 5:04 | Guitar plus game tones             | Slow guitar plus rapid effects | D/G reinforced by beeps           | Accidental guitar-and-arcade collage   |
+
+[end preformatted_text]
+
+Overall, the music feels personal, exploratory, and improvisational rather than commercially arranged. Its identity comes from sustained distorted guitar color, slow repetition, independently looping recordings, tonal ambiguity, and the cumulative effect of re-recording audio inside archived screen recordings.
+
