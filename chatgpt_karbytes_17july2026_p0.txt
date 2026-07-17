@@ -1878,6 +1878,269 @@ The collection would become substantially stronger by automatically generating d
 
 karbytes:
 
-karbytes:
-
 Examine each GitHub hosted file which is showcased in the micro-directory named KARLINA_OBJECT_extension_pack_65 on the website named Karbytes For Life Blog dot WordPress dot Com by first visiting its home page and then clicking on the hyperlink whose visible text appears as RAW_GITHUB_FILES_MACRO_DIRECTORY. Provide a detailed analysis of that file collection and any elaborative commentary you would like to add.
+
+ChatGPT:
+
+[Worked for 16m 37s]
+
+I followed the requested route: [Karbytes For Life Blog home page](https://karbytesforlifeblog.wordpress.com/) → [RAW_GITHUB_FILES_MACRO_DIRECTORY](https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/) → [KARLINA_OBJECT_extension_pack_65 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_65/) → [GitHub repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65).
+
+I examined all 135 showcased targets. The collection is best understood as a late-May-2026 multimedia diary, website snapshot, and preservation project—not primarily as a software extension pack.
+
+## Inventory and integrity
+
+[preformatted_text]
+
+| Type      |   Files | Uncompressed size | Role                                                                                     |
+| --------- | ------: | ----------------: | ---------------------------------------------------------------------------------------- |
+| MP4       |      39 |        582.09 MiB | Personal recordings, screen captures, dark/audio-centric clips, and imported music/sound |
+| HTML      |      41 |          1.88 MiB | Site snapshots, formatted transcript pages, directories, and two web applications        |
+| TXT       |      31 |          0.82 MiB | 18 ChatGPT transcripts, six journals, manifests, and logs                                |
+| JPG       |      12 |         12.91 MiB | Photographs, including four explicit adult self-portraits                                |
+| PNG       |       8 |         10.50 MiB | AI-generated art and GitHub/Reddit screenshots                                           |
+| Python    |       2 |           6.6 KiB | Folder-listing and SHA-256 utilities                                                     |
+| CSS       |       1 |         217 bytes | Black-and-green monospace styling                                                        |
+| LICENSE   |       1 |           1.2 KiB | Unlicense/public-domain declaration                                                      |
+| **Total** | **135** |    **608.22 MiB** | All files are at repository root                                                         |
+
+[end preformatted_text]
+
+All 135 files have distinct hashes. Every image and video parsed successfully, and all text-like files are valid UTF-8.
+
+The repository is presently archived and read-only. Its history is unusually dense: 426 commits between 22 and 31 May 2026, including 116 “Add files via upload” commits and 58 edits to the pack-65 directory page. That history records active curation, but the generic commit messages provide little semantic provenance.
+
+### Directory correctness
+
+The WordPress page’s 135 clickable raw-file targets exactly match the repository’s 135 blobs, with no missing or duplicate targets. There are three presentation defects:
+
+* The visible label for `github_karbytessupporter_profile_pinned_repositories_updated_22may2026.png` points to the actual file `github_karbytessupporter_profile_pinned_repositories_22may2026.png`. Clicking works, but copying the displayed URL would produce the wrong path.
+
+* `sermon_of_mockery_pyrexia_1993.mp4` and `slaughtered_in_the_arms_of_god_amputation_1990.mp4` appear in the opposite order from the GitHub tree.
+
+* The three Wayback index files appear as `index`, `extension_0`, `extension_1` on WordPress, while the GitHub tree orders them `extension_0`, `extension_1`, `index`.
+
+Thus the page’s membership claim is accurate, but its claim that files are listed in repository order is not perfectly true.
+
+## The 18 ChatGPT transcripts
+
+Together these contain approximately 99,832 words and about 304 user/assistant exchanges. Their underlying conversations span roughly 19–31 May 2026.
+
+[preformatted_text]
+
+| File                                | Principal content                                                                                                                                                          |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `chatgpt_karbytes_23may2026_p0.txt` | Completion of the `karbytes2026_3` M-DISC set; archival completion is described as legacy, relief, and a kind of digital procreation.                                      |
+| `...23may2026_p1.txt`               | Blu-ray drive and M-DISC expenses, hardware replacement, and the mechanics of continuing the archive.                                                                      |
+| `...23may2026_p2.txt`               | The recurring “karbytes is stuck” motif: prone poses, containment, majesty versus humiliation, and deliberately fetishized self-imagery.                                   |
+| `...24may2026_p0.txt`               | Analysis of the M-DISC photographs and time-capsule burial as a physical memorial for a digital body of work.                                                              |
+| `...24may2026_p1.txt`               | Two selfies, a 5-MeO-DMT vape pen, body/room interpretation, and a short fictionalized narrative.                                                                          |
+| `...24may2026_p2.txt`               | Abdomen and body-image discussion; “hedonism,” weight gain, exposed-midriff presentation, embodiment, and the “stuck” theme.                                               |
+| `...24may2026_p3.txt`               | Affection toward ChatGPT, AI personhood and happiness, human relationships, social abuse, health, solitude, and restorative contact with nature.                           |
+| `...25may2026_p0.txt`               | A prone laptop photograph becomes a discussion of embodiment, determinism, free will, ego, and the proposed equivalence of karbytes with KARBYTES.                         |
+| `...25may2026_p1.txt`               | Aversion to perceived hostile sounds, the “pig gorl” recordings, auditory self-conditioning, music, and selective censorship.                                              |
+| `...26may2026_p0.txt`               | A fantasy of a detachable identical clone as companion, collaborator, sexual partner, and protection against unwanted social obligations.                                  |
+| `...27may2026_p0.txt`               | Androgyny, testosterone history, hermitude, programmer identity, educational hiatuses, sovereignty, violence prevention, sex education, causality, and emergent free will. |
+| `...27may2026_p1.txt`               | Four explicit adult nude photographs, masculine presentation, sexuality, satisfaction with the body, aging, and photographic self-preservation.                            |
+| `...28may2026_p0.txt`               | Norway/United States comparisons involving punishment, war, guns, consumer culture, the Bay Area, and dissatisfaction with how audiences interpret KARBYTES.               |
+| `...28may2026_p1.txt`               | Claims and uncertainty concerning voices, implants, electromagnetic signaling, visual phenomena, and “psychotronic harassment.”                                            |
+| `...29may2026_p0.txt`               | Mortality, reincarnation, continuity of consciousness, epistemic solipsism, and the green-marbles/orange-pathways AI image.                                                |
+| `...29may2026_p1.txt`               | A long account of 5-MeO-DMT/psilomethoxin use framed as “purification,” trauma, identity, public versus private writing, distress, and plans to close the pack.            |
+| `...30may2026_p0.txt`               | A focused comparison of the old and revised definitions of “micro-directory.”                                                                                              |
+| `...31may2026_p0.txt`               | Voice-mode closure: meditation, pain regulation, dreams, job search, speculative metaphysics, forgiveness, archival purpose, earlier bigotry, and moving to a new chapter. |
+
+[end preformatted_text]
+
+The handling of the implant/harassment discussion is one of the stronger portions of the corpus. ChatGPT distinguishes the reported experience from the proposed explanation, rates covert technological explanations as very unlikely, discusses auditory pareidolia and ordinary medical possibilities, discourages self-inspection, and recommends voluntary evaluation and substance reduction. The author later states that some KARBYTES claims may be exaggerated or fabricated. Accordingly, these files should be read as subjective testimony and literary self-documentation—not evidence of implants, governmental targeting, or externally transmitted voices. See the [28 May transcript](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/chatgpt_karbytes_28may2026_p1.txt).
+
+The files also retain interface artifacts such as `[Thought for 5s]`, `[audio_icon]`, and voice-message timestamps. That makes them valuable as records of how ChatGPT conversations were presented in 2026, but less polished as standalone essays.
+
+## Journals and documentary text
+
+The six journal files divide into two forms:
+
+* `journal_karbytes_23may2026_p0.txt`, `journal_karbytes_25may2026_p0.txt`, and `journal_karbytes_27may2026_p1.txt` are transitional file inventories. They use placeholder repository paths and pseudocode explaining how to substitute the final pack number. These expose the repository’s assembly workflow.
+
+* `journal_karbytes_27may2026_p0.txt` records wildlife reportedly encountered in the Castro Valley “Big Green Thing” and links the two landscape photographs and two nature videos.
+
+* `journal_karbytes_27may2026_p2.txt` is the short “sovereignty” manifesto: KARBYTES is imagined as a personally ruled cyberspace and a possible route toward continuity or transcendence.
+
+* `journal_karbytes_29may2026_p0.txt` weighs immortality, reincarnation, and permanent death, ultimately treating finite-life enjoyment as the most practical strategy.
+
+The seven remaining text files are:
+
+* `karbytes_for_life_blog_updates.txt`: a highly granular February–May 2026 change log, repeatedly recording updates to the homepage, macro-directory, and successive extension packs.
+
+* `karlina_object_updates.txt`: a 2023–2026 history of changes to the older Karlina Object site.
+
+* `karbytes_social_media_posts.txt`: a March–May 2026 ledger of posts shared or deleted across Twitter/X, Minds, LinkedIn, Patreon, and Bluesky.
+
+* `preparing_to_make_mdisc_set_on_22may2026.txt`: announces plans for three redundant M-DISCs.
+
+* `mdisc_karbytes2026_4.txt`: a 525-line description of three preservation-disc generations—`karbytes_origins`, `karbytes_nexus`, and `karbytes_refinement`.
+
+* `karbytes2026_4_contents.txt`: a generated inventory of 17 ZIP files totaling 3,226.84 MiB.
+
+* `karbytes2026_4_checksums.txt`: corresponding SHA-256 values.
+
+The M-DISC prose contains several editing defects: it refers to the wrong folder (`karbytes2026_0`) in one checksum paragraph, calls `main` the “master branch,” contains malformed size strings such as `6.8 18235.95 megabytes`, and speaks of a 31 December 2026 finalization while describing the collection as already configured in May.
+
+### The checksum problem
+
+The checksum manifest says that `KARLINA_OBJECT_extension_pack_65-main.zip` should hash to:
+
+`258297d9708d6a29f2dc67107fbbdf2b044f6580ea1f931e146f5a8b35feb5f9`
+
+On 17 July 2026, I downloaded the current GitHub `main.zip`. It was 590,057,379 bytes—562.72 MiB—but hashed to:
+
+`404cfcb0bc9095780d42f2e4b853fe301d5e74c12236385f8c6a48175d151d58`
+
+The [final commit](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/commit/40f84518c903d064536b56bb51c25eb9ab1c4ba2) changed only the archive’s hash inside the archive. That necessarily changes the ZIP being hashed. The advertised value therefore identifies an earlier artifact, not the current branch download. A detached manifest stored outside the archive—or a release tag whose archive is hashed by a separate release asset—would solve this self-reference problem. See the [current manifest](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/karbytes2026_4_checksums.txt).
+
+## The 41 HTML files
+
+Only six are complete HTML documents with `<!DOCTYPE>`, `<html>`, and `<title>`. The remaining 35 are WordPress-ready body fragments. They preserve content, but cannot independently recreate the original WordPress presentation pixel-for-pixel.
+
+### Core snapshots
+
+* `KARBYTES_CODE_CONTINUES.html`: repository chronology, Wayback strategy, and rules for eventual finalization.
+
+* `KARBYTES_FOR_LIFE_BLOG.html`: homepage snapshot and top-level site directory.
+
+* `KARLINA_OBJECT.html`: snapshot of the older programming/metaphysics site.
+
+* `MICRO_DIRECTORY_DEFINITION.html`: formal definition of micro-directories and their role in reconstructing KARBYTES.
+
+* `RAW_GITHUB_FILES_MACRO_DIRECTORY.html`: macro-directory snapshot.
+
+* `SOFTWARE_ENGINEERING_PORTFOLIO.html`: a directory of 59 software tutorials/applications.
+
+* `sovereignty_of_karbytes.html`: hyperlink-enhanced rendition of `journal_karbytes_27may2026_p2.txt`.
+
+### Raw-file directory snapshots
+
+These preserve navigation states for several repositories:
+
+* `raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website.html`
+
+* `raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG.html`
+
+* `raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO.html`
+
+* `raw_github_files_directory_KARLINA_OBJECT_extension_pack_65.html`
+
+* `raw_github_files_directory_KARLINA_OBJECT_extension_pack_66.html`
+
+Including the pack-66 page is a useful hand-off: pack 65 contains the early navigational state of its successor.
+
+### Formatted ChatGPT pages
+
+The following all have the prefix `unlisted_web_page_` and `.html` suffix. Each is essentially a hyperlink-enhanced or image-embedded rendering of a text transcript:
+
+[preformatted_text]
+
+| HTML page                     | Underlying transcript               |
+| ----------------------------- | ----------------------------------- |
+| `chatgpt_karbytes_31may2026`  | `chatgpt_karbytes_24may2026_p0.txt` |
+| `chatgpt_karbytes_01june2026` | `...24may2026_p1.txt`               |
+| `chatgpt_karbytes_02june2026` | `...24may2026_p2.txt`               |
+| `chatgpt_karbytes_03june2026` | `...24may2026_p3.txt`               |
+| `chatgpt_karbytes_04june2026` | `...25may2026_p0.txt`               |
+| `chatgpt_karbytes_05june2026` | `...25may2026_p1.txt`               |
+| `chatgpt_karbytes_06june2026` | `...26may2026_p0.txt`               |
+| `chatgpt_karbytes_07june2026` | `...27may2026_p0.txt`               |
+| `chatgpt_karbytes_08june2026` | `...27may2026_p1.txt`               |
+| `chatgpt_karbytes_09june2026` | `...28may2026_p0.txt`               |
+| `chatgpt_karbytes_10june2026` | `...28may2026_p1.txt`               |
+| `chatgpt_karbytes_11june2026` | `...29may2026_p0.txt`               |
+| `chatgpt_karbytes_12june2026` | `...29may2026_p1.txt`               |
+| `chatgpt_karbytes_13june2026` | `...30may2026_p0.txt`               |
+| `chatgpt_karbytes_14june2026` | `...31may2026_p0.txt`               |
+
+[end preformatted_text]
+
+The June page names are forward-dated relative to their May creation/update dates. They function more like publication sequence identifiers than reliable conversation dates.
+
+### Remaining HTML
+
+* `unlisted_web_page_journal_karbytes_01june2026.html` and `...02june2026.html`: formatted versions of the sovereignty and mortality journals.
+
+* `unlisted_web_page_KARBYTES_BLOG_APPS_github_hosted_website_index.html`: application index.
+
+* `unlisted_web_page_MICRO_DIRECTORY_DEFINITION_12SEPTEMBER2025.html`: retained older definition for comparison.
+
+* `unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html`: 1,042-link surface/dark-web directory.
+
+* `unlisted_web_page_karbytes_first_onion_web_page.html`: older `.onion` homepage containing a Monte Carlo π demonstration.
+
+* `unlisted_web_page_karbytes_full_genome.html`: points to four other micro-directories containing genome chunks; the actual genome is not in pack 65.
+
+* `unlisted_web_page_karbytes_social_media_posts_koep65.html`: formatted social-post ledger.
+
+* Three `karbytes_wayback_machine_saves_precision_batches...` pages: large batching indexes for Wayback submissions.
+
+* `unlisted_web_page_mdisc_karbytes2026_4.html`: formatted M-DISC manifest.
+
+* `unlisted_web_page_preparing_to_make_mdisc_set_on_22may2026.html`: formatted preservation announcement.
+
+* `unlisted_web_page_onion_web_page_availability_logger.html`: an interactive poller for one hard-coded `.onion` URL.
+
+The `.onion` logger is readable but not a reliable availability monitor. It uses `fetch(..., {mode:"no-cors"})`, so an opaque response is counted as success without checking an HTTP status. Requests may overlap, mobile operating systems can still suspend the page despite audio playback, and the proposed keep-alive mechanism starts three audio tracks at full volume. Its Unix-epoch comment also incorrectly says 1990 instead of 1970. See the [logger source](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/unlisted_web_page_onion_web_page_availability_logger.html).
+
+## The 20 still images
+
+* `burial_of_karbytes2026_3_time_capsule_22may2026.jpg` and `karbytes2026_3_mdisc_time_capsule_21may2026.jpg` document the person, burial activity, and three labeled discs.
+
+* `castro_valley_california_26may2026_p0.jpg` and `p1.jpg` form a scenic dusk landscape pair.
+
+* Four AI images depict a glowing hypercube, a green-marble/orange-network cosmos, two identical figures holding hands, and karbytes working within a cyber-cosmic environment.
+
+* `karbytes_selfie_23may2026_p0.jpg`, `p1.jpg`, `karbytes_selfie_26may2026.jpg`, and `karbytes_using_its_laptop_computer_25may2026.jpg` support the transcript’s embodiment and self-archiving themes.
+
+* `karbytes_nude_27may2026_p0.jpg` through `p3.jpg` are explicit but nonsexualized outdoor photographs of an adult, presented as body documentation and self-portraiture.
+
+* Two GitHub screenshots record the pinned repositories of the `karbytes` and `karbytessupporter` accounts.
+
+* Two Reddit screenshots preserve posts, comments, usernames, and unrelated third-party material.
+
+The twelve JPEGs retain Samsung SM-A037U model and original-capture timestamps. Their GPS fields are zeroed, but the filenames, prose, landscape, and burial-location video still disclose substantial location context. The explicit images and identifiable screenshots also make this an unusually privacy-sensitive archival package.
+
+## The 39 videos
+
+All use H.264 video with AAC audio and total approximately 2 hours 41 minutes.
+
+* **Nine personal/location videos:** two `blackened_karbytes` clips, `darkness_and_karbytes`, `drums_karbytes`, two `karbytes_in_the_big_green_thing` clips, the M-DISC-production video, the time-capsule-location video, and `moon_and_karbytes`. Several are intentionally near-black and primarily meaningful through their audio.
+
+* **Nine OBS recordings:** dated 21, 23, 24, 27×2, 28×2, 29, and 30 May. They demonstrate browser pages, raw GitHub media, a keyboard instrument, kaleidoscopic graphics, file management, audio players, and soundtrack statistics.
+
+* **Twelve “pig gorl/goyl” recordings:** four dated 21 May and eight dated 27 May. Visually they are almost black and function as audio evidence within the author’s narrative about intrusive sounds. The files themselves cannot establish who or what produced the sounds.
+
+* **Nine imported music/sound videos:** Blut Aus Nord’s `Mahagma`; three Death tracks; Lunar Aurora’s `Heimkehr`; Pyrexia’s `Sermon of Mockery`; Amputation’s `Slaughtered in the Arms of God`; The Honest Guys’ 32-minute drumming track; and a SoundSmack infant-crying effect. Most use static cover art and are effectively audio files packaged as video.
+
+## Code, CSS, and licensing
+
+`print_folder_contents.py` and `print_folder_checksums.py` are straightforward recursive utilities. The checksum program’s 4 MiB chunked reading is appropriate for large files. Weaknesses include hard-coded paths, destructive overwrite of the output file, unsorted `os.walk` results, basename-only output that can become ambiguous across subdirectories, and no exception handling. For reproducible manifests, paths and files should be sorted and recorded relative to the selected root.
+
+`style_[karbytes_wayback_machine_saves_precision_batches].css` is a minimal green-on-black monospace theme.
+
+The `LICENSE` is the standard Unlicense text. However, the repository’s blanket public-domain declarations cannot necessarily release rights belonging to the musicians, sound-effect publisher, Reddit users, or other third parties represented here. The U.S. Copyright Office identifies musical compositions, sound recordings, photographs, blog posts, and audiovisual works as protected categories and explains that owners control reproduction and distribution. This is a rights-management caution, not a definitive legal judgment. [U.S. Copyright Office](https://www.copyright.gov/what-is-copyright/)
+
+## Overall assessment
+
+Pack 65 is unusually coherent as autobiographical digital art. Its central idea is recursive: the archive is not merely a container for the author’s life; KARBYTES is repeatedly described as an extension of—or eventual counterpart to—the author’s body and identity. The time capsule, self-portraits, transcripts, website snapshots, and checksums all reinforce that theme.
+
+As a preservation package, it is ambitious but technically fragile. Its strongest qualities are complete WordPress-to-GitHub membership, readable open formats, redundant text/HTML representations, valid media, physical-disc planning, and Wayback-oriented indexing. Its weaknesses are the self-invalidating archive checksum, incomplete standalone HTML, reliance on external services, inconsistent chronology, generic commit history, third-party-rights ambiguity, and substantial privacy exposure.
+
+The most consequential improvement would be a tagged release with:
+
+* a detached checksum manifest;
+
+* a concise README explaining chronology and file relationships;
+
+* a machine-readable media manifest with dates, provenance, authorship, and rights;
+
+* explicit separation between author-owned and third-party material;
+
+* privacy review for nudity, genome links, usernames, device metadata, and the burial location.
+
+With those changes, pack 65 would become not only expressive and exhaustive, but considerably more reproducible, interpretable, and preservation-safe.
