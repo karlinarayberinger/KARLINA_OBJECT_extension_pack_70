@@ -10,6 +10,8 @@ The following is a ChatGPT-generated prompt for karbytes to use for the purpose 
 
 relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/chatgpt_karbytes_18july2026_p0.txt
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_15july2026/
+
 * * *
 
 Revise the uploaded HTML or plain-text transcript file according to every rule below. Return a downloadable copy of the resulting HTML file.
