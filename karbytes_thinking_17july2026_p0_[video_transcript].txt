@@ -12,6 +12,8 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/abridged_keyboard_m
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/onion_web_page_availability_logger/
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/
+
 * * *
 
 Alright, I don't know if you can hear me because there's a bunch of noise players playing, and the fan, which is an industrial fan, is on. So, I decided I would try my best to record what I think, while I have the chance. And right now, it is the 17th of July, 2026.
