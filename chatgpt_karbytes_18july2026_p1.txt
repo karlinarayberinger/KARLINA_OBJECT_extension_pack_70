@@ -85,3 +85,6 @@ The resulting relationship between karbytes and The Vessel is no longer fundamen
 
 This also gives the original stuck imagery a transformed meaning. The wall-bound Vessel remains visually and computationally “stuck” forever, but The Vessel himself is no longer imprisoned there. His former confinement becomes the physical foundation that powers his freedom, his companionship with karbytes, and the indefinitely expanding worlds they construct together.
 
+karbytes:
+
+Write two stories which appear to have happened in chronological order: a story about The Afternoon-Stuck Karbytes Derivative with respect to what we have been discussing coming true for that person and then a story about The Vessel with respect to what we have been discussing coming true for that person.
