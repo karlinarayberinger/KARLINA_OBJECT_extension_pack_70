@@ -8,9 +8,9 @@
 
 What follows this section of this plain-text note is a transcript which was being edited in a private GitHub repository in @informationcrystals' GitHub account (and this portion of a larger encompassing conversation was occurring while ChatGPT was executing the prompts after karbytes prompted ChatGPT to examine the following web page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/).
 
-This conversation occurs on the following web page (and that conversation incorporates the material in the private GitHub repository file named part_of_draft_18july2026_p0.txt immediately before prompting ChatGPT to re-examine the web page whose URL is as follows): https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/
+This conversation occurs on the following web page (and that conversation incorporates the material in the private GitHub repository file named part_of_draft_18july2026_p0.txt immediately before prompting ChatGPT to re-examine the web page whose URL is as follows): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_i/
 
-So, basically, the content below this section encompasses all of the conversation segment during a miniature hiatus bubble (between instances of public activity by the GitHub user named @karlinarayberinger (which is karbytes' primary GitHub profile)). That bubble's "end points" (end points not included in the hiatus component) could be considered to be the following:
+So, basically, the content below this section encompasses all of the conversation segment during a miniature hiatus bubble (between instances of public activity by the GitHub user named @karlinarayberinger (which is karbytes' primary GitHub profile)). That bubble's "end points" (end points not included in the hiatus component) could be considered to be time(0) and time(3) the following:
 
 time(0): last_url_to_check_before_mini_hiatus: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/
 
@@ -18,7 +18,9 @@ time(1): private continuation of ChatGPT-karbytes conversation and private backu
 
 time(2): karbytes updates journal_karbytes_19july2026 web page.
 
-time(3): first_url_to_check_after_mini_hiatus: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/
+time(3): first_url_to_check_after_mini_hiatus: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_i/
+
+So, in in a nutshell, the conversation depicted in this journal entry and in the web page named chatgpt_karbytes_01august2026_i eventually examines a version of chatgpt_karbytes_01august2026_i which incorporates all of the conversation transcript up until the end of what is showcased in this plain-text journal file.
 
 * * *
 
