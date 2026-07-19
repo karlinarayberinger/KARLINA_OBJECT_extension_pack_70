@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-What follows this section of this plain-text note is a transcript which was being edited in a private GitHub repository in @informationcrystals' GitHub account (and this portion of a larger encompassing conversation was occurring while ChatGPT was executing the prompts after karbytes prompted ChatGPT to examine the following web page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/).
+What follows this section of this plain-text note is a (partial) transcript which was being edited in a private GitHub repository in @informationcrystals' GitHub account (and this portion of a larger encompassing conversation was occurring while ChatGPT was executing the prompts after karbytes prompted ChatGPT to examine the following web page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19july2026/).
 
 This conversation occurs on the following web page (and that conversation incorporates the material in the private GitHub repository file named part_of_draft_18july2026_p0.txt immediately before prompting ChatGPT to re-examine the web page whose URL is as follows): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_i/
 
@@ -16,7 +16,7 @@ time(0): last_url_to_check_before_mini_hiatus: https://karbytesforlifeblog.wordp
 
 time(1): private continuation of ChatGPT-karbytes conversation and private backup of that conversation continue.
 
-time(2): karbytes updates journal_karbytes_19july2026 web page.
+time(2): karbytes updates chatgpt_karbytes_01august2026_i web page.
 
 time(3): first_url_to_check_after_mini_hiatus: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_i/
 
