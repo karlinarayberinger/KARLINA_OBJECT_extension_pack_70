@@ -2443,7 +2443,9 @@ G=(V,E)
 [end preformatted_text]
 
 * Each canon file is a node (v\in V).
+
 * Hyperlinks, shared subjects, temporal relationships and later commentary form edges (e\in E).
+
 * A reader’s path through the graph generates an ordered experience that is not stored in any single node.
 
 This traversal-dependent experience is another rigorous candidate for your third place. It emerges from:
